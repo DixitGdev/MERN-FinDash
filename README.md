@@ -12,9 +12,15 @@ Built using the robust MERN stack (MongoDB, Express, React, Node.js), this appli
 
 The main dashboard is where you'll find a collection of financial KPIs displayed in a clear and concise manner. With easy-to-read charts and real-time data updates, you can keep a close eye on your financial status.
 
+![Dashboard](https://github.com/DixitGdev/MERN-QuantumFin/assets/51261247/d4003557-0130-4e11-8722-4caf00b16165)
+
+
 ### *Predictions Page*
 
 The Predictions Page is where the power of data analysis comes into play. Using advanced regression algorithms, the application provides financial forecasting to help you make informed financial decisions.
+
+![Predictions](https://github.com/DixitGdev/MERN-QuantumFin/assets/51261247/3c490ece-17a7-44e3-92b9-48e070960a7d)
+
 
 ## **Tech Stack**
 
