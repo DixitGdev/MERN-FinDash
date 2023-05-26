@@ -39,7 +39,22 @@ This application utilizes a variety of technologies to deliver a seamless user e
 - Regression: A library for making predictions using linear regression
 - Nodemon: A utility that monitors for any changes in your source and automatically restarts your server
 
-## **License**
+#
+## Author : Dixit Ghodadara [(Github Profile)](https://github.com/DixitGdev)
 
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE.md](./LICENSE.md) file.
+## Contributing
+
+We welcome contributions from the community. Whether it's a bug report, new feature, correction, or additional documentation, we greatly appreciate your help. Please ensure your pull request adheres to our contribution guidelines.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+
+If you have any questions, feel free to contact us. We appreciate your feedback!
+
+## Acknowledgements
+
+We would like to thank the open source community for their continuous support and inspiration. We are always learning and improving, thanks to you.
 
